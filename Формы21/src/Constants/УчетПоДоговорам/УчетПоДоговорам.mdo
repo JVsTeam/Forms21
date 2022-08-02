@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="89cfb492-509f-4908-a329-ed900fd75cbb">
+  <producedTypes>
+    <managerType typeId="a491e6c0-3a0a-46c5-bf5f-40282dc9d40e" valueTypeId="3b477f94-32d2-404e-ab9f-c018f16fea7e"/>
+    <valueManagerType typeId="ec8ad7d8-28e2-4b1d-8bc1-61b0fe4c602a" valueTypeId="730b9981-4178-4757-8cc0-395786ae3f66"/>
+    <valueKeyType typeId="27e97c19-0274-4328-9777-61aacedba588" valueTypeId="584a81c8-2c14-4c7d-8c00-c17b115aa8dd"/>
+  </producedTypes>
+  <name>УчетПоДоговорам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учет по договорам</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <defaultForm>CommonForm.ОбщиеНастройки</defaultForm>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

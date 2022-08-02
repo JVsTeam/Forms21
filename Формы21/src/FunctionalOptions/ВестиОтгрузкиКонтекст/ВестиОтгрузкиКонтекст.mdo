@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2994bf41-ddae-4bee-a2e4-3afc1ce5e7cc">
+  <name>ВестиОтгрузкиКонтекст</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вести отгрузки контекст</value>
+  </synonym>
+  <location>Catalog.ПараметрыКонтекстныхФункциональныхОпций.Attribute.ВестиОтгрузки</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Catalog.Контрагенты.Command.Отгрузки</content>
+</mdclass:FunctionalOption>
